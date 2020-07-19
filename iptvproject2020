@@ -75,10 +75,10 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u
 #EXTINF:0 tvg-id="" tvg-name="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",BLUE ANT ENTERTAIMENT
+#EXTINF:-1 tvg-logo="https://iix123.us.to/logo/blueant.png" group-title="MOVIES",BLUE ANT ENTERTAIMENT
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",BLUE ANT EXTREME
+#EXTINF:-1 tvg-logo="https://iix123.us.to/logo/blueantextreme.png" group-title="MOVIES",BLUE ANT EXTREME
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HBO Family
