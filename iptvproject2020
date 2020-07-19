@@ -120,7 +120,7 @@ http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="https://iix123.us.to/logo/cinemaworld.png" group-title="MOVIES",CINEMA WORLD
 http://210.210.155.35:80/uq2663/h/h04/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",CINEMAX
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="MOVIES",CINEMAX
 http://fhr.ddns.net:25461/live/333333/333333/62011.ts
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Hits_(TV_channel)#/media/File:Hits_TV_Asia_logo.jpg" group-title="MOVIES",HITS
