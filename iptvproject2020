@@ -46,7 +46,7 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 https://etslive-2-vidio-com.akamaized.net/exp=1595046328~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=1fea566f5b4f48b3996c6461c51e51eaa80d9bdde979588a50f6a97d1918ac3c/vp9/870_stream.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Nasional",INEWS HD
-https://linier.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-mp4a_64000=2.m3u8
+https://linier.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Nasional",TV One
 https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybAPzOjLkLdSSMBlMCiGhJ9w)/dm/3/x619221/s/live-3.m3u8
