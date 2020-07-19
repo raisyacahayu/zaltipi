@@ -126,7 +126,7 @@ http://fhr.ddns.net:25461/live/333333/333333/62011.ts
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Hits_(TV_channel)#/media/File:Hits_TV_Asia_logo.jpg" group-title="MOVIES",HITS
 http://210.210.155.35:80/uq2663/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",K+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="MOVIES",K+
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",& Prive HD
