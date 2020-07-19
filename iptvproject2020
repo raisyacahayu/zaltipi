@@ -91,7 +91,7 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=DF89512A955211D215
 http://fhr.ddns.net:25461/live/333333/333333/62133.ts
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HBO XTREME
-http://fhr.ddns.net:25461/live/333333/333333/62134.ts
+https://anevia114.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9BE85B9E02EAA73CC172A985FA42CC45DE314D57&profile=pass
