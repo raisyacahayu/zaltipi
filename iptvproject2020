@@ -150,6 +150,9 @@ http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="MOVIES",ZEE BIOSKOP
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
 
+#EXTINF:-1  tvg-logo="https://tinyurl.com/chos123" group-title="MOVIES"",Citra Drama
+https://dl.dropbox.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=1
+
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=21BD9A34DD072D24596A14EAFC78BC705583C9FD&profile=pass
 
@@ -218,10 +221,3 @@ https://bitball.b-cdn.net/movies/2020-07/07-12-2020/The.Old.Guard.2020.720p.WEBR
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",Greyhound 2020
 https://bitball.b-cdn.net/movies/2020-07/07-12-2020/Greyhound.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
-
-#EXTM3U 
-#EXT-X-VERSION:3
-
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-https://etslive-2-vidio-com.akamaized.net/exp=1595141341~acl=/hls-b/ingest_6401_*/*~hmac=cfc4cb00075e81b7f33b0af30c8ffade1732053ea6c37aedc6dd27b1cdbb058d/hls-b/ingest_6401_720p/index.m3u8
