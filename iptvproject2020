@@ -186,6 +186,12 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",SONY BBC EARTH HD
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",BEIN SPORTS 1
+https://chostv.mobie.in/choos/sports1/bein1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",BEIN SPORTS 2
+https://chostv.mobie.in/choos/sports1/bein2.m3u8
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="VOD MOVIES",BEGIN AGAIN
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/11990/19084/2c9c55d7-93e9-4604-8f6c-c366e9b555ba/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
 
