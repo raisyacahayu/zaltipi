@@ -153,6 +153,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1595234411~acl=/hls-p/ingest_6401_
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="MOVIES"",Citra Bioskop
 https://etslive-2-vidio-com.akamaized.net/exp=1595234527~acl=/hls-p/ingest_geo_6684_*/*~hmac=359e405b65dd4b637734d1079f3160ee59d6680dc23d6364303d636b925139b8/hls-p/ingest_geo_6684_720p/index.m3u8
 
+#EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="MOVIES"",Citra Entertainment
+https://etslive-2-vidio-com.akamaized.net/exp=1595234769~acl=/hls-p/ingest_6402_*/*~hmac=b894c3fe0f846a220972479bc464e326e76a1a253bbc9e2bd0b2f434f809fa93/hls-p/ingest_6402_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=21BD9A34DD072D24596A14EAFC78BC705583C9FD&profile=pass
 
