@@ -171,6 +171,21 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 #EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_300x157.png" group-title="RELIGI",rodjaTV
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",Al Quran Al Kareem TV
+https://etslive-2-vidio-com.akamaized.net/exp=1595253114~acl=/hls-p/ingest_6852_*/*~hmac=569bb8d620051c9da21daf8c1b309ba9f808986efbcb62dcab36e9e0a972a2ac/hls-p/ingest_6852_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_300x157.png" group-title="RELIGI",MUI TV
+https://cdngb196.useetv.com/joss/18/muitv/chunklist_w138513776_b684100_sleng.m3u8?enc=svq-KlHyG4hT3s-YmZeoOg&id=&exp=1595247848
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png" group-title="RELIGI",TV9 NU
+https://cdngb196.useetv.com/joss/18/tv9/chunklist_w670584668_b684100_sleng.m3u8?enc=54IHquOUyscnCCCVnAtQmg&id=&exp=1595247955
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png" group-title="RELIGI",TV MU
+https://cdngb196.useetv.com/joss/18/muhammadiyahtv/chunklist_w522689705_b684100_sleng.m3u8?enc=twtxtQjIiJdTCtAES8ywuw&id=&exp=1595248016
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGI",TAWAF TV
+https://cdngb196.useetv.com/joss/18/tawaftv/chunklist_w668920841_b684100_sleng.m3u8?enc=blfvybFDE_oT3ZeARG1Dzw&id=&exp=1595248064
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="SPORTS",BEIN SPORTS 1
 https://chostv.mobie.in/choos/sports1/bein1.m3u8
  
