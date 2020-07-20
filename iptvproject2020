@@ -173,15 +173,9 @@ https://tv.rodja.live/live/smil:rodjatv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="SPORTS",BEIN SPORTS 1
 https://chostv.mobie.in/choos/sports1/bein1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="SPORTS",BEIN SPORTS 1 FHD
-https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="SPORTS",BEIN SPORTS 2
 https://chostv.mobie.in/choos/sports1/bein2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="SPORTS",BEIN SPORTS 2 FHD
-https://production-premium-vidio-bein2.akamaized.net/out/v1/c2bf7d48124c4061a47356a97f5d2354/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1
 https://chostv.mobie.in/choos/sports1/foxsports1.m3u8
