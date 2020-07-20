@@ -148,10 +148,10 @@ http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="MOVIES"",Citra Drama
-https://dl.dropbox.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=1
+https://etslive-2-vidio-com.akamaized.net/exp=1595234411~acl=/hls-p/ingest_6401_*/*~hmac=a9f1d2df75d84793f6a81c4775c17acc131513f493b7e23d6b370b48aa2b3783/hls-p/ingest_6401_720p/index.m3u8
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="MOVIES"",Citra Entertainment
-https://dl.dropbox.com/s/ycu2ro7yrxph2q7/CitraEnt.m3u8?dl=1
+#EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="MOVIES"",Citra Bioskop
+https://etslive-2-vidio-com.akamaized.net/exp=1595234527~acl=/hls-p/ingest_geo_6684_*/*~hmac=359e405b65dd4b637734d1079f3160ee59d6680dc23d6364303d636b925139b8/hls-p/ingest_geo_6684_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=21BD9A34DD072D24596A14EAFC78BC705583C9FD&profile=pass
