@@ -147,6 +147,9 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=61ECE32328125B4009
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",History
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass
 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Love Nature
+https://etslive-2-vidio-com.akamaized.net/exp=1595257506~acl=/hls-p/ingest_geo_6635_*/*~hmac=5ee2693ef0e99d023f0d47a41eb6743e5ef34d23090877e2df38ba4629b25bba/hls-p/ingest_geo_6635_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 
