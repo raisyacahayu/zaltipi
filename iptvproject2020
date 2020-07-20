@@ -132,12 +132,6 @@ http://210.210.155.35:80/uq2663/h/h37/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="MOVIES",K+
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",& Prive HD
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",& Flix HD
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",SONY HD
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8
 
