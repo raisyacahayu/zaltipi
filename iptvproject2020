@@ -261,20 +261,17 @@ https://bitball.b-cdn.net/movies/2020-07/07-12-2020/The.Old.Guard.2020.720p.WEBR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",Greyhound 2020
 https://bitball.b-cdn.net/movies/2020-07/07-12-2020/Greyhound.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",fifty grey
-https://r5---sn-npoe7nek.c.drive.google.com/videoplayback?expire=1595231488&ei=vxQVX4jgPO6lrvIPwLCN4AY&ip=158.140.169.142&cp=QVNOV0NfUFRWSVhOOmIzTEgxQ1lYeVAwNXZ3cnBlR3NKdzZLU2gyWXloRTZZUFNZZUlCLVQ3M1g&id=7cf42220930d739f&itag=22&source=webdrive&requiressl=yes&mh=89&mm=32&mn=sn-npoe7nek&ms=su&mv=m&mvi=5&pl=24&sc=yes&ttl=transient&susc=dr&driveid=1V0YHQtXHNTOGIvYKDRbnSblPRfCngysj&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=6618.244&lmt=1594119436715255&mt=1595216965&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgNdKktgEBhPpbZ0fO1GFwd5fmhJ5ap7zJSvdVPUHAWqkCIGJwY7zWRVKTZTn8MqY0csH3eDJj42qqrEy8asTq9tP7&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRAIgDbzh7R4u0jjsjAUdUv1w6BjC77LpM4eceRd9qGwgW-wCIG2xAbAP4S88PORl-0iP0kPfVBULHoXeRMNTGQWI36vY
-
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="CITRA"",Citra Drama
-https://etslive-2-vidio-com.akamaized.net/exp=1595277378~acl=/hls-p/ingest_6401_*/*~hmac=15042670b442da3b809c8d69ec96a19661af78db12a2ed1e99b7d8d71e95b768/hls-p/ingest_6401_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595308537~acl=/hls-p/ingest_6401_*/*~hmac=31967b187adef2ae5f5e0a069b9861acf267c2b5474304e6e65b4902cc838d97/hls-p/ingest_6401_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1595264038~acl=/hls-p/ingest_geo_6684_*/*~hmac=dbfa2d75bfe6ee822be68feb1b3fcc57488a259fed7fa28e42e40ae621320c61/hls-p/ingest_geo_6684_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595308526~acl=/hls-p/ingest_geo_6684_*/*~hmac=513979dd4d5dbf9a41fc8e4c788dfe81ca2756ebb7240149e21a2d1f48f1e106/hls-p/ingest_geo_6684_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Entertainment
-https://etslive-2-vidio-com.akamaized.net/exp=1595264148~acl=/hls-p/ingest_6402_*/*~hmac=a6186f624513d22da1754c7c90d036527823188cfff21ef44eb5951a94345025/hls-p/ingest_6402_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595308547~acl=/hls-p/ingest_6402_*/*~hmac=7dec55f67d491bc74ae9551442d8b30793a8bc6f62a9fc06ecb7b1f0cb125620/hls-p/ingest_6402_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="CITRA"",Citra Dangdut
-https://etslive-2-vidio-com.akamaized.net/exp=1595264117~acl=/hls-p/ingest_6587_*/*~hmac=feb67622e21fcbd8c96ef30ec6f6754178f17cd3d1b0c1a654356bf336dddaad/hls-p/ingest_6587_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595308541~acl=/hls-p/ingest_6587_*/*~hmac=610ff08819a49fa3d4d12613e95d14790c16e67ffb25f14db31b7178bc357511/hls-p/ingest_6587_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Muslim
-https://etslive-2-vidio-com.akamaized.net/exp=1595263965~acl=/hls-p/ingest_6678_*/*~hmac=87bc3808ef187ddc15d4509f1bc22a0afba1f892dea0e0c50d1d6387453881d5/hls-p/ingest_6678_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595308467~acl=/hls-p/ingest_6678_*/*~hmac=7f7d24a0195ddd8d31a73b94895d8533233786a5bb49ed089bada63c0495e561/hls-p/ingest_6678_720p/index.m3u8
