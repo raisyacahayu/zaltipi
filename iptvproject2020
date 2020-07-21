@@ -49,7 +49,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1595046328~acl=/vp9/870_stream.mpd
 https://etslive-2-vidio-com.akamaized.net/exp=1595251846~acl=/hls-p/ingest_5409_*/*~hmac=b3da1d4c2d47d9a43178ed304a31428beefa7f7c5f985027142c2672e6bce776/hls-p/ingest_5409_720p/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Nasional",TV One
-https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybAPzOjLkLdSSMBlMCiGhJ9w)/dm/3/x619221/s/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybNXaLwxlpBPQ0JR1BrXEDFs)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
