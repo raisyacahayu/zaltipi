@@ -148,7 +148,7 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=61ECE32328125B4009
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Love Nature
-https://etslive-2-vidio-com.akamaized.net/exp=1595257506~acl=/hls-p/ingest_geo_6635_*/*~hmac=5ee2693ef0e99d023f0d47a41eb6743e5ef34d23090877e2df38ba4629b25bba/hls-p/ingest_geo_6635_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595308839~acl=/hls-p/ingest_geo_6635_*/*~hmac=dceda07e975389317ae060a97daf9e1a835ba395232de36bc96136494b1690c1/hls-p/ingest_geo_6635_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
@@ -175,7 +175,7 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",Al Quran Al Kareem TV
-https://etslive-2-vidio-com.akamaized.net/exp=1595253114~acl=/hls-p/ingest_6852_*/*~hmac=569bb8d620051c9da21daf8c1b309ba9f808986efbcb62dcab36e9e0a972a2ac/hls-p/ingest_6852_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595308894~acl=/hls-p/ingest_6852_*/*~hmac=d116f748a2417a8ac8c9b5207a105e7820dd14b9ba6b3919734e0f5b02cfdf96/hls-p/ingest_6852_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_300x157.png" group-title="RELIGI",MUI TV
 https://cdngb196.useetv.com/joss/18/muitv/chunklist_w138513776_b684100_sleng.m3u8?enc=svq-KlHyG4hT3s-YmZeoOg&id=&exp=1595247848
