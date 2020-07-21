@@ -148,7 +148,7 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=61ECE32328125B4009
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Love Nature
-https://etslive-2-vidio-com.akamaized.net/exp=1595321257~acl=/hls-p/ingest_geo_6635_*/*~hmac=cb0dd357434460139cd3f357803b26e84c3b9955d772f77ff5c4edd224857736/hls-p/ingest_geo_6635_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595332081~acl=/hls-p/ingest_geo_6635_*/*~hmac=f62ad27b951f39aba10f1aacbb9dccd10c049cc059d94b20a1614df177f00358/hls-p/ingest_geo_6635_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
@@ -175,7 +175,7 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",Al Quran Al Kareem TV
-https://etslive-2-vidio-com.akamaized.net/exp=1595321214~acl=/hls-p/ingest_6852_*/*~hmac=a4709b826dbbb5726c53e3d2a4e74442e167f1b164c733a22992ae36eefa7b55/hls-p/ingest_6852_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595332086~acl=/hls-p/ingest_6852_*/*~hmac=dc088a2a4f04f3c9c0109562be0c5ad131c2e30cd32f60fa7ac61552101cf829/hls-p/ingest_6852_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_300x157.png" group-title="RELIGI",MUI TV
 https://cdngb196.useetv.com/joss/18/muitv/chunklist_w138513776_b684100_sleng.m3u8?enc=svq-KlHyG4hT3s-YmZeoOg&id=&exp=1595247848
@@ -262,16 +262,16 @@ https://bitball.b-cdn.net/movies/2020-07/07-12-2020/The.Old.Guard.2020.720p.WEBR
 https://bitball.b-cdn.net/movies/2020-07/07-12-2020/Greyhound.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="CITRA"",Citra Drama
-https://etslive-2-vidio-com.akamaized.net/exp=1595321017~acl=/hls-p/ingest_6401_*/*~hmac=229b55365efd3537f960a848a8bbdb95ab4a8452255c6b2e4100350b5310f592/hls-p/ingest_6401_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595332058~acl=/hls-p/ingest_6401_*/*~hmac=0746331ad7323c019f06dbda81a10d3a27dd53a222d4eed679c75eab3be9b20c/hls-p/ingest_6401_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1595321053~acl=/hls-p/ingest_geo_6684_*/*~hmac=ed5e65304dcb0c8c88f960353d47d7e87002146b4e64e8705b3e8277acaf2b92/hls-p/ingest_geo_6684_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595332055~acl=/hls-p/ingest_geo_6684_*/*~hmac=cdecd0fe3b957c36b3678112b00d5393393aa460132e888e4ce5fd3e01a2cf2d/hls-p/ingest_geo_6684_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Entertainment
-https://etslive-2-vidio-com.akamaized.net/exp=1595321094~acl=/hls-p/ingest_6402_*/*~hmac=1a18385e8ceb20262c61e466c8b985aaf28cf8384e0a963ffeb70d06a09d2318/hls-p/ingest_6402_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595332063~acl=/hls-p/ingest_6402_*/*~hmac=644ea0e2e3333f8ef61791194403406038936be8b455fbf2c6d48b8cb299da04/hls-p/ingest_6402_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="CITRA"",Citra Dangdut
-https://etslive-2-vidio-com.akamaized.net/exp=1595321130~acl=/hls-p/ingest_6587_*/*~hmac=3d136c009646583f6fb691c70f0b69fd40ce22c1bf116de1f8c5f8883a655548/hls-p/ingest_6587_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595332061~acl=/hls-p/ingest_6587_*/*~hmac=a2ba175ed5c89846e7bf1a4b03bc95c8f28404b6b05e00e2e27f00678f7bf05c/hls-p/ingest_6587_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Muslim
-https://etslive-2-vidio-com.akamaized.net/exp=1595321158~acl=/hls-p/ingest_6678_*/*~hmac=1b37c09521d11871011df93729ccccfe1d8308d3d022434ea0b3a9f1e9acf559/hls-p/ingest_6678_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595332048~acl=/hls-p/ingest_6678_*/*~hmac=15f8dfcf0b8379bbdcb89c487b0a9e99105846cfbecde77e423ef06e954b1590/hls-p/ingest_6678_720p/index.m3u8
