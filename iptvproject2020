@@ -57,6 +57,9 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV SD
 https://stream-04.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS_CZ7Gh404n7Cdvp6CQ-TGo)/dm/3/x75p70w/d/live-2.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/KompasTV.png" group-title="TV Nasional",Kompas TV
 https://etslive-2-vidio-com.akamaized.net/exp=1595251744~acl=/vp9/874_stream.mpd!/vp9/874/*~hmac=b077ad242b1bd463c2623dbec838947415aa9df4d97d385c26aa75e1ad2af40c/vp9/874_stream.mpd
 
@@ -129,6 +132,9 @@ http://210.210.155.35:80/uq2663/h/h37/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="MOVIES",K+
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="MOVIES",K-DRAMA
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png" group-title="MOVIES",SONY GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
@@ -175,7 +181,22 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",Al Quran Al Kareem TV
-https://etslive-2-vidio-com.akamaized.net/exp=1595394183~acl=/hls-p/ingest_6852_*/*~hmac=65e131c78cd80b39e236886e77dfc4edd344e7c9ae02a7cec5bbc8455401e61b/hls-p/ingest_6852_720p/index.m3u8
+http://nonton.site:8888/ko Amat/123456/297
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",AL-IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8m
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",WESAL TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
 #EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_300x157.png" group-title="RELIGI",MUI TV
 https://cdngb196.useetv.com/joss/18/muitv/chunklist_w138513776_b684100_sleng.m3u8?enc=svq-KlHyG4hT3s-YmZeoOg&id=&exp=1595247848
