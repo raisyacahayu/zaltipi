@@ -193,7 +193,7 @@ http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8m
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",WESAL TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
