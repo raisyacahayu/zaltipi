@@ -150,7 +150,7 @@ http://203.153.218.28:9981/stream/channelid/1092664456?ticket=21BD9A34DD072D2459
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="KNOWLEDGE",Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=61ECE32328125B40097870241BD99B4D3EBD89BF&profile=pass
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",History
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="KNOWLEDGE",History
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Love Nature
