@@ -289,13 +289,13 @@ https://bitball.b-cdn.net/movies/2020-07/07-12-2020/The.Old.Guard.2020.720p.WEBR
 https://bitball.b-cdn.net/movies/2020-07/07-12-2020/Greyhound.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="CITRA"",Citra Drama
-https://etslive-2-vidio-com.akamaized.net/exp=1595686843~acl=/hls-p/ingest_6401_*/*~hmac=4f22bc428833350da7a1724ac8b7c7683bcb6bc3031a2ff9c741a0d9d407c239/hls-p/ingest_6401_720p/index.m3u8
+https://dl.dropbox.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=1
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Bioskop
 https://etslive-2-vidio-com.akamaized.net/exp=1595686821~acl=/hls-p/ingest_geo_6684_*/*~hmac=413f488d8ebf9789a93d2239b9e0296e3f3d0736dbcdf4d108f3d52dd0cdbfa4/hls-p/ingest_geo_6684_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Entertainment
-https://etslive-2-vidio-com.akamaized.net/exp=1595686799~acl=/hls-p/ingest_6402_*/*~hmac=7ada8cb2ddd324789bd42ef3955c75e0859a49cdee9e42f000bfc714fd7bf76b/hls-p/ingest_6402_720p/index.m3u8
+https://dl.dropbox.com/s/ycu2ro7yrxph2q7/CitraEnt.m3u8?dl=1
 
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="CITRA"",Citra Dangdut
 https://etslive-2-vidio-com.akamaized.net/exp=1595686779~acl=/hls-p/ingest_6587_*/*~hmac=67f6d40e476981248db997343fab39f3a457ba9891d9353ec4cd80e6fd8fa3f4/hls-p/ingest_6587_720p/index.m3u8
