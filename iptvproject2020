@@ -78,6 +78,15 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u
 #EXTINF:0 tvg-id="" tvg-name="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="TV Nasional",BALI TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(3473945a-c61b-4c44-bfe7-1e09499b9cf9)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="TV Nasional",LOMBOK TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(274d8cf1-729a-4acc-8ff2-69b1c4f70be7)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="TV Nasional",CHANNEL 4U
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4a0fb5ee-e514-4eec-8917-50a35533ba4c)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="USEETV",ID KU
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
 
@@ -316,4 +325,4 @@ https://etslive-2-vidio-com.akamaized.net/exp=1595750921~acl=/hls-p/ingest_6402_
 https://etslive-2-vidio-com.akamaized.net/exp=1595750861~acl=/hls-p/ingest_6587_*/*~hmac=291ae4cf1f6eeec11498e04f3bea486577ee567aab5b42524e48aaef5dd445f3/hls-p/ingest_6587_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Muslim
-https://app-etslive-2.vidio.com/live/6678/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjY2NzgsInBsYXlsaXN0X3VybCI6Imh0dHBzOi8vYXBwLWV0c2xpdmUtMi52aWRpby5jb20vbGl2ZS82Njc4L21hc3Rlci5tM3U4In0sImV4cCI6MTU5NTczNzE1OCwiaXNzIjoid3d3LnZpZGlvLmNvbSJ9.mtXmWdSwNHWfUID_qeXlMS7p6Go2rfljzVFGCWmASjjaZmmkx-t1glpmBQBaev23jLrPX4rLXfPBIKnBH78vUYm9Ob1PVvNmi7Ipyac5lCvfwumJjwlw57wQlcLE5NXjvtoQGcRz717_17hpsqJQVXuBy-k8HDjgtDXBmGRG-vCDE7ia4UWQvPVFQfBltoT8oT-U73-yA6Q8bT6HfIYDCM3A1uSbVRvfP5iQqWk5Ha7tx174ph5hrMCDIf9UehKJF9HLULNUCVDuAveUwzvEwsD9MueZFCkjopn7BToLdEKtgVZTsrdx2eXg8MJzpIvISw2Eg5W-iVEGu6tHEofW_w&trace_id=1595736379400650061
+https://etslive-2-vidio-com.akamaized.net/exp=1595751946~acl=/hls-p/ingest_6678_*/*~hmac=5cee002977eae613b5bb48805acf2c5f8d463a9c4c27dc3fca330aff0064c36d/hls-p/ingest_6678_720p/index.m3u8
