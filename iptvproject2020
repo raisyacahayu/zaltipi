@@ -223,7 +223,7 @@ http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
 #EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_300x157.png" group-title="RELIGI",MUI TV
-https://cdngb196.useetv.com/joss/18/muitv/chunklist_w138513776_b684100_sleng.m3u8?enc=svq-KlHyG4hT3s-YmZeoOg&id=&exp=1595247848
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(7b95e69b-6e1d-44f9-b925-6ce98ba7e6c0)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png" group-title="RELIGI",TV9 NU
 https://cdngb196.useetv.com/joss/18/tv9/chunklist_w670584668_b684100_sleng.m3u8?enc=54IHquOUyscnCCCVnAtQmg&id=&exp=1595247955
