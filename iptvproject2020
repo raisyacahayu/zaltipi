@@ -166,7 +166,7 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=61ECE32328125B4009
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Love Nature
-https://etslive-2-vidio-com.akamaized.net/exp=1595737189~acl=/hls-p/ingest_geo_6635_*/*~hmac=d712ba99f6c3740c970de072eb03a5b93ee985a2b446240cee26af03f97744a4/hls-p/ingest_geo_6635_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595751026~acl=/hls-p/ingest_geo_6635_*/*~hmac=11d034fc6e57815de6a101c04dcf05a574d0685582bc3ab1fd0244750f5a489a/hls-p/ingest_geo_6635_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="KNOWLEDGE",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
@@ -304,16 +304,16 @@ https://bitball.b-cdn.net/movies/2020-07/07-12-2020/The.Old.Guard.2020.720p.WEBR
 https://bitball.b-cdn.net/movies/2020-07/07-12-2020/Greyhound.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="CITRA"",Citra Drama
-https://etslive-2-vidio-com.akamaized.net/exp=1595737146~acl=/hls-p/ingest_6401_*/*~hmac=4b4ee83117c8f8e7e33321450c966f3f48faf1ba6f44e296283e12f913c6ceea/hls-p/ingest_6401_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595750984~acl=/hls-p/ingest_6401_*/*~hmac=85881902432c964a8afd03665553ddb7a8edbb90fdfc358799eca225c78a8fb4/hls-p/ingest_6401_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1595737120~acl=/hls-p/ingest_geo_6684_*/*~hmac=de59da98c6e20afa7e8aec3993c356b4827417ce4e91b24c635747b63d90eba1/hls-p/ingest_geo_6684_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595750954~acl=/hls-p/ingest_geo_6684_*/*~hmac=eee61118cbd08eaf0302d0dbee5f74e3a7c39a9341cd73226e3b9b42a56a945c/hls-p/ingest_geo_6684_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Entertainment
-https://etslive-2-vidio-com.akamaized.net/exp=1595737095~acl=/hls-p/ingest_6402_*/*~hmac=8d7af41658c5773e174f08ab00a3c989201e239f2c312ad1aa02ecc87b215949/hls-p/ingest_6402_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595750921~acl=/hls-p/ingest_6402_*/*~hmac=138e06939a0e07bd40e819f56a7ce640311c24f533f7ed9cc13592672e55abcb/hls-p/ingest_6402_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="CITRA"",Citra Dangdut
-https://etslive-2-vidio-com.akamaized.net/exp=1595737072~acl=/hls-p/ingest_6587_*/*~hmac=a3a016981a2b8d3f29415edc50d126f27a40e8ab3f6aef6e767ff75ad063a33a/hls-p/ingest_6587_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595750861~acl=/hls-p/ingest_6587_*/*~hmac=291ae4cf1f6eeec11498e04f3bea486577ee567aab5b42524e48aaef5dd445f3/hls-p/ingest_6587_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Muslim
-https://etslive-2-vidio-com.akamaized.net/exp=1595736988~acl=/hls-p/ingest_6678_*/*~hmac=76ce5632deec3e0ffb1e7192e495971b19de61d33d7e578bf3aa25f8a2f885f4/hls-p/ingest_6678_720p/index.m3u8
+https://app-etslive-2.vidio.com/live/6678/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjY2NzgsInBsYXlsaXN0X3VybCI6Imh0dHBzOi8vYXBwLWV0c2xpdmUtMi52aWRpby5jb20vbGl2ZS82Njc4L21hc3Rlci5tM3U4In0sImV4cCI6MTU5NTczNzE1OCwiaXNzIjoid3d3LnZpZGlvLmNvbSJ9.mtXmWdSwNHWfUID_qeXlMS7p6Go2rfljzVFGCWmASjjaZmmkx-t1glpmBQBaev23jLrPX4rLXfPBIKnBH78vUYm9Ob1PVvNmi7Ipyac5lCvfwumJjwlw57wQlcLE5NXjvtoQGcRz717_17hpsqJQVXuBy-k8HDjgtDXBmGRG-vCDE7ia4UWQvPVFQfBltoT8oT-U73-yA6Q8bT6HfIYDCM3A1uSbVRvfP5iQqWk5Ha7tx174ph5hrMCDIf9UehKJF9HLULNUCVDuAveUwzvEwsD9MueZFCkjopn7BToLdEKtgVZTsrdx2eXg8MJzpIvISw2Eg5W-iVEGu6tHEofW_w&trace_id=1595736379400650061
