@@ -111,8 +111,8 @@ http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MOVIES",HBO HD
 http://nonton.site:8888/Mr. Sugianto/123456/4828
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=4329B3E8AA7F378A734FC2AAE9B74761528954FC&profile=pass
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="MOVIES",HBO Family
+http://nonton.site:8888/Mr. Sugianto/123456/4830
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=DF89512A955211D2152BD7CAC58362C4A2463787&profile=pass
