@@ -183,7 +183,7 @@ http://210.210.155.35:80/uq2663/h/h37/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="KOREA",K+
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="KOREA",K-DRAMA
+#EXTINF:-1 tvg-logo="https://cdn.ketemulagi.net/wp-content/uploads/2016/10/Jadwal-LBS-Tv-K-Drama.jpg" group-title="KOREA",K-DRAMA
 http://210.210.155.35/qwr9ew/s/s42/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png" group-title="KOREA",SONY GEM
@@ -191,6 +191,12 @@ http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="KOREA",SONY ONE
 http://nonton.site:8888/Mr. Sugianto/123456/3647
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_smalsl1.png" group-title="KOREA",KBS World
+http://nonton.site:8888/Didied istn/123456/15057
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="KOREA",TVN ID
+http://nonton.site:8888/Didied istn/123456/767
 
 #EXTINF:-1 tvg-logo="https://iix123.us.to/logo/thrill.png" group-title="MOVIES",THRILL
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
@@ -252,13 +258,13 @@ http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",Al Quran Al Kareem TV
 http://nonton.site:8888/ko Amat/123456/297
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",AHSAN TV
+#EXTINF:-1 tvg-logo="https://www.tvislamonline.com/images/logo/ahsan.png" group-title="RELIGI",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",AL-IMAN TV
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="RELIGI",AL-IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",INSAN TV
