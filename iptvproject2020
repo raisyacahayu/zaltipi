@@ -111,7 +111,7 @@ http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MOVIES",HBO HD
 http://nonton.site:8888/Mr. Sugianto/123456/4828
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="MOVIES",HBO Family
 http://nonton.site:8888/Mr. Sugianto/123456/4830
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HBO Hits
@@ -120,13 +120,16 @@ http://nonton.site:8888/Mr. Sugianto/123456/4829
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MOVIES",HBO SIGNATURE
 http://nonton.site:8888/Mr. Sugianto/123456/4831
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="MOVIES",FOX Action
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="MOVIES",Fox Action
 http://nonton.site:8888/Mr. Sugianto/123456/3641
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9BE85B9E02EAA73CC172A985FA42CC45DE314D57&profile=pass
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="MOVIES",Fox FHD
+http://nonton.site:8888/Mr. Sugianto/123456/3634
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="MOVIES",FOX Family Movies
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="MOVIES",Fox HD
+http://nonton.site:8888/Mr. Sugianto/123456/3633
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="MOVIES",Fox Family Movies
 http://nonton.site:8888/Mr. Sugianto/123456/3644
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES",Fox Movies FHD
@@ -134,6 +137,18 @@ http://nonton.site:8888/Mr. Sugianto/123456/3640
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES",Fox Movies HD
 http://nonton.site:8888/Mr. Sugianto/123456/3639
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="MOVIES",Fox Crime HD
+http://nonton.site:8888/Mr. Sugianto/123456/3637
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="MOVIES",Fox Crime FHD
+http://nonton.site:8888/Mr. Sugianto/123456/3638
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="MOVIES",Fox Life FHD
+http://nonton.site:8888/Mr. Sugianto/123456/3636
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="MOVIES",Fox Life HD
+http://nonton.site:8888/Mr. Sugianto/123456/3635
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HI! INDO
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
