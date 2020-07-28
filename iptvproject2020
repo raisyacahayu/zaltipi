@@ -231,29 +231,44 @@ http://nonton.site:8888/Mr. Kadek/123456/306
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="KIDS",Disney Channel" group-title="KIDS",Disney Channel ID
 http://nonton.site:8888/Mr. Kadek/123456/3479
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Disney Junior
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="KIDS",Disney Junior
+http://nonton.site:8888/Mr. Kadek/123456/213
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Disney UK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="KIDS",Disney UK
+http://nonton.site:8888/Mr. Kadek/123456/2336
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Diseney XD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="KIDS",Disney XD
+http://nonton.site:8888/Mr. Kadek/123456/104
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Duck TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="KIDS",Duck TV
+http://nonton.site:8888/Mr. Kadek/123456/1854
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Dunia Anak
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="KIDS",Dunia Anak
+http://nonton.site:8888/Mr. Kadek/123456/907
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Horee
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="KIDS",Horee
+http://nonton.site:8888/Mr. Kadek/123456/14106
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Nick Jr ID
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="KIDS",Nick Jr 2
+http://nonton.site:8888/Mr. Kadek/123456/341
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Nick Toons
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS",Nick Jr ID
+http://nonton.site:8888/Mr. Kadek/123456/522
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Nickelodeon ID
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="KIDS",Nick Toons
+http://nonton.site:8888/Mr. Kadek/123456/335
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Spacetoon
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="KIDS",Nickelodeon ID
+http://nonton.site:8888/Mr. Kadek/123456/962
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Toonmax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/320px-Spacetoon.png" group-title="KIDS",Spacetoon
+http://nonton.site:8888/Mr. Kadek/123456/1541
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Zoo Moo FHD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",Toonmax
+http://nonton.site:8888/Mr. Kadek/123456/1116
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="KIDS",Zoo Moo FHD
+http://nonton.site:8888/Mr. Kadek/123456/14104
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=21BD9A34DD072D24596A14EAFC78BC705583C9FD&profile=pass
