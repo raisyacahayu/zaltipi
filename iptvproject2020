@@ -4,7 +4,7 @@ http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?
 app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Nasional",TransTV HD
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1890821583_b384000_sleng.m3u8
+http://nonton.site:8888/Mr. Sugianto/123456/34
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans7
 http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
@@ -12,7 +12,7 @@ http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvye
 app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans7 HD
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1819272421_b384000_sleng.m3u8
+http://nonton.site:8888/Mr. Sugianto/123456/930
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8?
@@ -48,8 +48,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1595046328~acl=/vp9/870_stream.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Nasional",INEWS HD
 https://etslive-2-vidio-com.akamaized.net/exp=1595251846~acl=/hls-p/ingest_5409_*/*~hmac=b3da1d4c2d47d9a43178ed304a31428beefa7f7c5f985027142c2672e6bce776/hls-p/ingest_5409_720p/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Nasional",TV One
-https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybNXaLwxlpBPQ0JR1BrXEDFs)/dm/3/x619221/s/live-3.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_tvone_big1.png" group-title="TV Nasional",TV One
+http://nonton.site:8888/Didied istn/123456/29
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
