@@ -169,9 +169,9 @@ http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 http://210.210.155.35:80/uq2663/h/h04/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="MOVIES",CINEMAX
-http://fhr.ddns.net:25461/live/333333/333333/62011.ts
+http://nonton.site:8888/Mr. Sugianto/123456/4833
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Hits_(TV_channel)#/media/File:Hits_TV_Asia_logo.jpg" group-title="MOVIES",HITS
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HITS
 http://210.210.155.35:80/uq2663/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="MOVIES",K+
@@ -182,6 +182,9 @@ http://210.210.155.35/qwr9ew/s/s42/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png" group-title="MOVIES",SONY GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="MOVIES",SONY ONE
+http://nonton.site:8888/Mr. Sugianto/123456/3647
 
 #EXTINF:-1 tvg-logo="https://iix123.us.to/logo/thrill.png" group-title="MOVIES",THRILL
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
