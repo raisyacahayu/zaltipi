@@ -198,8 +198,11 @@ http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=21BD9A34DD072D24596A14EAFC78BC705583C9FD&profile=pass
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="KNOWLEDGE",Discovery Channel
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=61ECE32328125B40097870241BD99B4D3EBD89BF&profile=pass
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="KNOWLEDGE",Discovery Channel FHD
+http://nonton.site:8888/Mr. Sugianto/123456/3618
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="KNOWLEDGE",Discovery Channel HD
+http://nonton.site:8888/Mr. Sugianto/123456/3617
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="KNOWLEDGE",History
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass
@@ -207,17 +210,26 @@ http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Love Nature
 https://etslive-2-vidio-com.akamaized.net/exp=1595905744~acl=/hls-p/ingest_geo_6635_*/*~hmac=d7974182cd91a7604f3cfced0e6aea9e6670f3b42a7c196e2b436a80cde5b143/hls-p/ingest_geo_6635_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="KNOWLEDGE",NAT GEO People
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="KNOWLEDGE",NAT GEO People FHD
+http://nonton.site:8888/Mr. Sugianto/123456/1371
 
-#EXTINF:1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="KNOWLEDGE",Nat Geo Wild
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="KNOWLEDGE",NAT GEO People HD
+http://nonton.site:8888/Mr. Sugianto/123456/3619
+
+#EXTINF:1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="KNOWLEDGE",Nat Geo Wild FHD
+http://nonton.site:8888/Mr. Sugianto/123456/13717
+
+#EXTINF:1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="KNOWLEDGE",Nat Geo Wild HD
+http://nonton.site:8888/Mr. Sugianto/123456/3620
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KNOWLEDGE",TECHSTORM
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",ANIMAL PLANET
-http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="KNOWLEDGE",ANIMAL PLANET FHD
+http://nonton.site:8888/Mr. Sugianto/123456/3616
+
+#EXTINF:-1 tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="KNOWLEDGE",ANIMAL PLANET HD
+http://nonton.site:8888/Mr. Sugianto/123456/3615
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",BBC Cbeebies
 http://51.52.156.22:8888/http/003
