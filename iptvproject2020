@@ -153,7 +153,7 @@ http://nonton.site:8888/Mr. Sugianto/123456/3636
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="MOVIES",Fox Life HD
 http://nonton.site:8888/Mr. Sugianto/123456/3635
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HI! INDO
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC",HI! INDO
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="MOVIES",KIX
@@ -177,16 +177,16 @@ http://nonton.site:8888/Mr. Sugianto/123456/4833
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HITS
 http://210.210.155.35:80/uq2663/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="MOVIES",K+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="KOREA",K+
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="MOVIES",K-DRAMA
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="KOREA",K-DRAMA
 http://210.210.155.35/qwr9ew/s/s42/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png" group-title="MOVIES",SONY GEM
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png" group-title="KOREA",SONY GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="MOVIES",SONY ONE
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="KOREA",SONY ONE
 http://nonton.site:8888/Mr. Sugianto/123456/3647
 
 #EXTINF:-1 tvg-logo="https://iix123.us.to/logo/thrill.png" group-title="MOVIES",THRILL
