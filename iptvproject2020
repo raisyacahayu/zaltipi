@@ -120,7 +120,10 @@ http://nonton.site:8888/Mr. Sugianto/123456/4829
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MOVIES",HBO SIGNATURE
 http://nonton.site:8888/Mr. Sugianto/123456/4831
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="MOVIES",Fox Action
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="MOVIES",Fox Action FHD
+http://nonton.site:8888/Mr. Sugianto/123456/3642
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="MOVIES",Fox Action HD
 http://nonton.site:8888/Mr. Sugianto/123456/3641
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="MOVIES",Fox FHD
