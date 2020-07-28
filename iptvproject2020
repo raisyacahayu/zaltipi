@@ -432,14 +432,14 @@ https://bitball.b-cdn.net/movies/2020-07/07-12-2020/Greyhound.2020.720p.WEBRip.x
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="CITRA"",Citra Drama
 https://etslive-2-vidio-com.akamaized.net/exp=1595924482~acl=/hls-p/ingest_6401_*/*~hmac=a6eac766e431476447180d20ceeab85b0694f012773201605da51f0947a19440/hls-p/ingest_6401_720p/index.m3u8
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Bioskop
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Bioskop
 https://etslive-2-vidio-com.akamaized.net/exp=1595924459~acl=/hls-p/ingest_geo_6684_*/*~hmac=6092776c0fc93f71ff24f8c89b9beef4151a57d31cbbb4c98884be60d709da8c/hls-p/ingest_geo_6684_720p/index.m3u8
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Entertainment
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Entertainment
 https://etslive-2-vidio-com.akamaized.net/exp=1595924434~acl=/hls-p/ingest_6402_*/*~hmac=d354620bd5f255b240f1690d355e2d1c326e1af4019255d71d5f281f0ec91b6a/hls-p/ingest_6402_720p/index.m3u8
 
-#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="CITRA"",Citra Dangdut
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="CITRA"",Citra Dangdut
 http://nonton.site:8888/Didied istn/123456/2207
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Muslim
+#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Muslim
 https://etslive-2-vidio-com.akamaized.net/exp=1595924408~acl=/hls-p/ingest_6678_*/*~hmac=2632951fab8fcff3cbd17cdd8389809e177a69ebcbb94b3cdd36cfb0bbe243ab/hls-p/ingest_6678_720p/index.m3u8
