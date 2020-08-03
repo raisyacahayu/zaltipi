@@ -37,7 +37,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1596465501~acl=/vp9/870_stream.mpd
 https://etslive-2-vidio-com.akamaized.net/exp=1596465556~acl=/hls-p/ingest_5415_*/*~hmac=e61ea1d332c709d0410e9a2dd2e923a2e9fb5e2734d0dd43150e13c45ba5836d/hls-p/ingest_5415_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YR-pUEut4i7WADsTuUTe3XIfnu8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="LOKAL",GTV
-ttps://etslive-2-vidio-com.akamaized.net/exp=1596465589~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=85066ee3ea20bde4c70b47f86b4d19fbd5e030d40be5e0c7b7db12bb5547845e/vp9/778_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1596465589~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=85066ee3ea20bde4c70b47f86b4d19fbd5e030d40be5e0c7b7db12bb5547845e/vp9/778_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/bXwNElZHHM2uvwHO23kXVFETxbE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="LOKAL",NET
 https://etslive-2-vidio-com.akamaized.net/exp=1596465421~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=d4a9e951107132a2a1cd0e27898744938daaa5361e6830cc5a3788a583d6ae82/vp9/875_stream.mpd
