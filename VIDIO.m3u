@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/t_3TP4_tXIqeNnSpW7-ZPc-gz3o=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-e17be3.jpg" group-title="LOKAL",SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1596443570~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=92154813b5b5ab9116a6918178b593b44e5b531dd871d3ce766c620645e89a07/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1596445842~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=b200a53bb5ebba5876e37c750166e594b71003728c3591663bcc7c5296983b2a/vp9/204_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/cw7Fq78LeELJ6EmVm2_TJ5Kr6l0=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-73afc4.jpg" group-title="LOKAL",INDOSIAR HD
 https://etslive-2-vidio-com.akamaized.net/exp=1596443862~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=eca264bf93cf6133fac479b5ae2ad5064d5e2bc3101d67d83368a2c57c680ea5/vp9/205_stream.mpd
@@ -22,8 +22,10 @@ https://etslive-2-vidio-com.akamaized.net/exp=1596444054~acl=/hls-p/ingest_6165_
 https://etslive-2-vidio-com.akamaized.net/exp=1596443977~acl=/vp9/777_stream.mpd!/vp9/777/*~hmac=2652a9534bda723eaa54aa7d4c743906200195d1b14684f6a156206ca3c35684/vp9/777_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tcUmQVAAtUoBIC0CXNRAD7I6AA8=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="LOKAL",TRANS TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1596445720~acl=/vp9/733_stream.mpd!/vp9/733/*~hmac=79d517421f044fba946ff240b149c088fd95c144de9b0b22fb2631bc34028a0e/vp9/733_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Il3vUFfvvfaMbB8gkww7vAwkFsg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="LOKAL",TVRI HD
+https://etslive-2-vidio-com.akamaized.net/exp=1596445628~acl=/vp9/6441_stream.mpd!/vp9/6441/*~hmac=a78583b8b1a17dfb11764d1dc8e8d7ad3d81cd93912504ae21affc30c0e1facf/vp9/6441_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/iAINbdQHeI3X4QDzdaN4eNNaVwg=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="LOKAL",TRANS7 HD
 
