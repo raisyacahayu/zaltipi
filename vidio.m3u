@@ -96,6 +96,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1596452393~acl=/hls-p/ingest_geo_6
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0MYPu13tEdYGCeGdKCQGgjUFqgw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-5c45d3.jpg" group-title="KIDS",HOREE
 https://etslive-2-vidio-com.akamaized.net/exp=1596452415~acl=/hls-p/ingest_geo_6397_*/*~hmac=448a1fb85f26a0d205c7ae915c69bff7027976a7f043f4e2ff4643c42692a0d4/hls-p/ingest_geo_6397_720p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="PENGETAHUAN",NAT GEO
+https://cdnbpp1.useetv.com/joss/15/natgeo/chunklist_w1723750837_b1344100_sleng.m3u8?enc=hfbLNwd5p2VoWTNHp9P4Ag&id=YTcwNzhhMDMxN2Y5MmFkMjA2NmQ0Njc5MmQ5MTY1YjI=&exp=1596452053
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XhYxbEWmxJkcTbCJD52CjaUImWI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" group-title="PENGETAHUAN",SMITHSONIAN
 https://etslive-2-vidio-com.akamaized.net/exp=1596452437~acl=/hls-p/ingest_geo_6550_*/*~hmac=88b81635e11f5054fd886182c47a354ad2fd92ddf986bdd7c81540a86629c880/hls-p/ingest_geo_6550_720p/index.m3u8
 
