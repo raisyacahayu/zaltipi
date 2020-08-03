@@ -47,6 +47,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1596445628~acl=/vp9/6441_stream.mp
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jk44WQnNzvfmY9Q_1AIgX0RKI-A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" group-title="LOKAL",DAAI TV HD
 
-#EXTINF:-1 tvg-logo="" group-title="LOKAL",
-
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/CUIrqo6fAf3iy5NJ3iF2YcaD3LA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-184dc1.jpg" group-title="SPORTS",BEINSPORT 1
+https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index.m3u8
 
