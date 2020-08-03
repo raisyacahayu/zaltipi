@@ -1,0 +1,59 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/t_3TP4_tXIqeNnSpW7-ZPc-gz3o=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-e17be3.jpg" group-title="LOKAL",SCTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1596445842~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=b200a53bb5ebba5876e37c750166e594b71003728c3591663bcc7c5296983b2a/vp9/204_stream.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/cw7Fq78LeELJ6EmVm2_TJ5Kr6l0=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-73afc4.jpg" group-title="LOKAL",INDOSIAR HD
+https://etslive-2-vidio-com.akamaized.net/exp=1596443862~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=eca264bf93cf6133fac479b5ae2ad5064d5e2bc3101d67d83368a2c57c680ea5/vp9/205_stream.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/luOi_zazH1vtQCkgL6IHPw5dWGI=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="LOKAL",RCTI HD
+https://etslive-2-vidio-com.akamaized.net/exp=1596443910~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=5180885fa22951f4a1dbc577c9f7e7b8b70cfd233dd5d30c4a0cc59101baec52/vp9/665_stream.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8P6g5XNGCjXrde94MaCMuZGPnTo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" group-title="LOKAL",OCHANNEL HD
+https://etslive-2-vidio-com.akamaized.net/exp=1596443991~acl=/hls-p/ingest_206_*/*~hmac=6666f5592866e99a9cb56a8b0a30643e2301a96795f3dee7d68ef1c579b1e312/hls-p/ingest_206_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/F2HOhV4Zm1vQxlOw347qiH777YA=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg" group-title="LOKAL",KOMPAS TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1596443927~acl=/vp9/874_stream.mpd!/vp9/874/*~hmac=588be565a8d984cf82443e03c76b5e689f487b4a367d554ec5feede7a7756399/vp9/874_stream.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_fC2eBJvZbrdn63yJHkgGH_bYqw=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="LOKAL",BERITA SATU HD
+https://etslive-2-vidio-com.akamaized.net/exp=1596444054~acl=/hls-p/ingest_6165_*/*~hmac=f04fde34d16f240f0b77f4b317671fed756b591995b1aa41bb3c7005b605c3a4/hls-p/ingest_6165_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/08YofwZWRK0ZX1DaARlcILNicNs=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-362808.jpg" group-title="LOKAL",METRO TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1596443977~acl=/vp9/777_stream.mpd!/vp9/777/*~hmac=2652a9534bda723eaa54aa7d4c743906200195d1b14684f6a156206ca3c35684/vp9/777_stream.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tcUmQVAAtUoBIC0CXNRAD7I6AA8=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="LOKAL",TRANS TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1596445720~acl=/vp9/733_stream.mpd!/vp9/733/*~hmac=79d517421f044fba946ff240b149c088fd95c144de9b0b22fb2631bc34028a0e/vp9/733_stream.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Il3vUFfvvfaMbB8gkww7vAwkFsg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="LOKAL",TVRI HD
+https://etslive-2-vidio-com.akamaized.net/exp=1596445628~acl=/vp9/6441_stream.mpd!/vp9/6441/*~hmac=a78583b8b1a17dfb11764d1dc8e8d7ad3d81cd93912504ae21affc30c0e1facf/vp9/6441_stream.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/iAINbdQHeI3X4QDzdaN4eNNaVwg=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="LOKAL",TRANS7 HD
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NZy4IEZXngGp5YlqpIQOWM3pH1U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="LOKAL",MNC HD
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HnG0r6HJCt6xwwvDhLnXppgzKmg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg" group-title="LOKAL",JAKTV HD
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YR-pUEut4i7WADsTuUTe3XIfnu8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="LOKAL",GTV HD
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/bXwNElZHHM2uvwHO23kXVFETxbE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="LOKAL",NET HD
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jZKlBJan7aUwou-SkFXSfCFI12k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="LOKAL",RTV HD
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zkFKLMQEXbJropYF7sh7D33fVaM=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="LOKAL",INEWS HD
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UTu4NFGKxozt5F7ogi4zvMsbupg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg" group-title="LOKAL",OSHOP HD
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/mzCjJY7TqiT-BYLhrRRDcuSGMCk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" group-title="LOKAL",MyTV HD
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jk44WQnNzvfmY9Q_1AIgX0RKI-A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" group-title="LOKAL",DAAI TV HD
+
+
