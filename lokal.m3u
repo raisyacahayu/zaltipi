@@ -43,7 +43,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1596514064~acl=/vp9/778_stream.mpd
 https://etslive-2-vidio-com.akamaized.net/exp=1596514094~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=669c3231c38db01eca6e7e8749ef339721fdab6ddb3708be319dbb8a677d4a88/vp9/875_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jZKlBJan7aUwou-SkFXSfCFI12k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="LOKAL",RTV
-ttps://etslive-2-vidio-com.akamaized.net/exp=1596514151~acl=/hls-p/ingest_geo_1561_*/*~hmac=78ed2ed8349471a73aa6e30d4b1e09fc8dbd68d4ad1947eafc29fe926b74924a/hls-p/ingest_geo_1561_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1596514151~acl=/hls-p/ingest_geo_1561_*/*~hmac=78ed2ed8349471a73aa6e30d4b1e09fc8dbd68d4ad1947eafc29fe926b74924a/hls-p/ingest_geo_1561_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zkFKLMQEXbJropYF7sh7D33fVaM=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="LOKAL",INEWS
 https://etslive-2-vidio-com.akamaized.net/exp=1596514171~acl=/hls-p/ingest_5409_*/*~hmac=47467bb0fc5952ff4baab07a02f9959d2d2b4f89159773ab957ba98470c1c7c3/hls-p/ingest_5409_720p/index.m3u8
