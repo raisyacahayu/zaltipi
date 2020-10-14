@@ -183,6 +183,9 @@ http://nonton.site:8888/Mr. Sugianto/123456/4833
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HITS
 http://210.210.155.35:80/uq2663/h/h37/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="KOREA",test
+http://nonton.site:8888/depik1978/matana16/35
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="KOREA",K+
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 
