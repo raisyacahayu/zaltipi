@@ -367,10 +367,10 @@ https://chostv.mobie.in/choos/sports1/bein2.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2
-https://chostv.mobie.in/choos/sports1/foxsports2.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX SPORTS 3
-https://chostv.mobie.in/choos/sports1/foxsports3.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Skynet Sport 1
 https://chostv.mobie.in/choos/sports1/skynet1.m3u8
