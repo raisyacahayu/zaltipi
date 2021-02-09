@@ -31,6 +31,9 @@ http://210.210.155.35/session/6913c6d8-a9df-11ea-8ede-98c689d5e942/qwr9ew/s/s07/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV2
+https://etslive-2-vidio-com.akamaized.net/exp=1612857387~acl=/hls-p/ingest_204_*/*~hmac=80ed54d9ae7f350f56ae66f7022867453c899a3a27ac90d429cc24a1c7798a33/hls-p/ingest_204_720p/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-indosiar
 
