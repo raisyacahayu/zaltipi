@@ -23,8 +23,6 @@ https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-trans7
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-net
 
-app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Nasional",ANTV
 http://210.210.155.35/session/6913c6d8-a9df-11ea-8ede-98c689d5e942/qwr9ew/s/s07/02.m3u8
 
