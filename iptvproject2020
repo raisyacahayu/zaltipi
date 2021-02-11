@@ -40,20 +40,17 @@ https://gratismkctv.net/oxygen.m3u8?channel=tvone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV SD
-https://stream-04.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS_CZ7Gh404n7Cdvp6CQ-TGo)/dm/3/x75p70w/d/live-2.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",CNN INDONESIA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnnindo.png" group-title="TV Nasional",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/KompasTV.png" group-title="TV Nasional",Kompas TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png" group-title="TV Nasional",Kompas TV
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-kompastv
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Nasional",RTV
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png" group-title="TV Nasional",JTV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-jtv
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="TV Nasional",MY TV
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
@@ -538,7 +535,7 @@ https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/axn.png" group-title="Entertainment", ZQ Drama 
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/axn.png" group-title="Entertainment", AXN 
-https://cdn14jtedge.useetv.com/joss/15/axn/chunklist_w146363952_b1344100_sleng.m3u8?enc=Q9jfDFTnsUCrnwSzb1h9IQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613048602 
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-axn
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/citradrama.png" group-title="Entertainment", Citra Drama 
 https://cdn14jtedge.useetv.com/joss/14/cdrama/chunklist_w638393640_b684100_sleng.m3u8?enc=miNmmjeNXU7KU5BYBLtjyw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613052107 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/dunialain.png" group-title="Entertainment", Dunia Lain 
