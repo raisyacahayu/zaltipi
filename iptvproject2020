@@ -1,27 +1,17 @@
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Nasional",TransTV
 http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?
 
-app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Nasional",TransTV HD
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-transtv
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-transtv
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans7
 http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
 
-app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans7 HD
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-trans7
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans7 HD+
-#http://nonton.site:8888/6894864475/7163819284/35
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV FHD
-#http://nonton.site:8888/6894864475/7163819284/78
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-trans7
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-net
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-net
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Nasional",ANTV
 http://210.210.155.35/session/6913c6d8-a9df-11ea-8ede-98c689d5e942/qwr9ew/s/s07/02.m3u8
@@ -29,13 +19,8 @@ http://210.210.155.35/session/6913c6d8-a9df-11ea-8ede-98c689d5e942/qwr9ew/s/s07/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV2
-https://etslive-2-vidio-com.akamaized.net/exp=1612857387~acl=/hls-p/ingest_204_*/*~hmac=80ed54d9ae7f350f56ae66f7022867453c899a3a27ac90d429cc24a1c7798a33/hls-p/ingest_204_720p/index.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-indosiar
-
-app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-indosiar
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
