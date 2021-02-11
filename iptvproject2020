@@ -76,6 +76,9 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4a0fb5ee-e514-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7O2z6dcNkeUXtzR_cud3RfVZ6Gc=/filters:quality(90)/vidio-web-prod-film/uploads/film/image_portrait/647/setangkai-rambutan-cinta-d9b592.jpg" group-title="FTV",FTV setangkai rambutan cinta
 https://m.vidio.com/videos/1228364/common_tokenized_playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7O2z6dcNkeUXtzR_cud3RfVZ6Gc=/filters:quality(90)/vidio-web-prod-film/uploads/film/image_portrait/647/setangkai-rambutan-cinta-d9b592.jpg" group-title="FTV",FTV SCTV - Gita Cinta Romli dan Juleha
+https://m.vidio.com/videos/625841/common_tokenized_playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png" group-title="USEETV",USEE PRIME
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-useeprime
 
