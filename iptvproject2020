@@ -74,7 +74,7 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(274d8cf1-729a-
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4a0fb5ee-e514-4eec-8917-50a35533ba4c)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="USEETV",ID KU
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
+https://m.vidio.com/videos/1228364/common_tokenized_playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png" group-title="USEETV",USEE PRIME
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-useeprime
