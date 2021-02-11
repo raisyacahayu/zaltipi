@@ -35,7 +35,7 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=7-m
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_tvone_big1.png" group-title="TV Nasional",TV One
-http://nonton.site:8888/6894864475/8119081940/29
+https://gratismkctv.net/oxygen.m3u8?channel=tvone
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
@@ -77,13 +77,13 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4a0fb5ee-e514-
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png" group-title="USEETV",USEE PRIME
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-useeprime
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png" group-title="USEETV",USEE PHOTO
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-useephoto
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title="USEETV",RUANG TERAMPIL
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/manifest.mpd
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-useeinfo
 
 #EXTINF:-1 tvg-logo="https://iix123.us.to/logo/blueant.png" group-title="MOVIES",BLUE ANT ENTERTAIMENT
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
@@ -98,21 +98,8 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="audio_ind",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="ind"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjUxNzh9fX1dfQ__&Signature=CA38caVHtIONMzbs0ISaG6v8KS~EHQKLeYp8sRFm0N14v153Qw6iX7bcjor6wUIw6EsrUkQqOGaa7TFfwD9GlYoPZUIjjOpqWyAfdhbpLS1UTIp611tUhTz3LoFg5~7eKtPRQ87zj4uKGsmx7Pr8mbUs21xH2VCwKykrzqxgazKxbNDZT9FXl6aTx-cD2riby3ff-PdRzVoifPOjzKZdu~GQrathWSbeCs8peuJVToJwk0lKBBtmoFsRnx4fp51ldi5NDA3BiTTP5n5gqcDrw7Do5E7C6AqbP2TYBrVYLqIYlZICYFCLiQzizM4YWWhHIx8yNbNKOAOj8kHwjvzkAA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MOVIES",HBO LNG
-#EXT-X-VERSION:7
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="audio_eng",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="eng",URI="https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/5.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYxMjk1NTE4OH19fV19&Signature=K9v2n1oaj5q1VWV4JivXltdIdv1ZzOstgkhclqyQfYDxihn32-6zywNH86O281XLMFTIbMNpKxbwReRFqR3Vz1jCjeZfd87o9N9J4ucPDYgYeoFglnJTeJdp4LI2IJb83gw8IoTUNO0NifQLCoWEw0lDJsnFl6Mp80KC2PtVhip8g~UK~fvO2QPP0z3L3qcbCdayw4fddJc79U8qpekWrRwAJx3fvh0g~Vjnm4fr3zkfepRtN3p1wOu9uCG0DgZztX2yk2J1rP137hDrQDlmJXnSuoyJ10WT-pwS7wZ7SDMmunA7gEgj~7-CsWqhDxajNXdAj970a-DihZK6gsfZ5A__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="audio_ind",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="ind",URI="https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/6.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYxMjk1NTE4OH19fV19&Signature=K9v2n1oaj5q1VWV4JivXltdIdv1ZzOstgkhclqyQfYDxihn32-6zywNH86O281XLMFTIbMNpKxbwReRFqR3Vz1jCjeZfd87o9N9J4ucPDYgYeoFglnJTeJdp4LI2IJb83gw8IoTUNO0NifQLCoWEw0lDJsnFl6Mp80KC2PtVhip8g~UK~fvO2QPP0z3L3qcbCdayw4fddJc79U8qpekWrRwAJx3fvh0g~Vjnm4fr3zkfepRtN3p1wOu9uCG0DgZztX2yk2J1rP137hDrQDlmJXnSuoyJ10WT-pwS7wZ7SDMmunA7gEgj~7-CsWqhDxajNXdAj970a-DihZK6gsfZ5A__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="ind",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ind",URI="https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/13.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYxMjk1NTE4OH19fV19&Signature=K9v2n1oaj5q1VWV4JivXltdIdv1ZzOstgkhclqyQfYDxihn32-6zywNH86O281XLMFTIbMNpKxbwReRFqR3Vz1jCjeZfd87o9N9J4ucPDYgYeoFglnJTeJdp4LI2IJb83gw8IoTUNO0NifQLCoWEw0lDJsnFl6Mp80KC2PtVhip8g~UK~fvO2QPP0z3L3qcbCdayw4fddJc79U8qpekWrRwAJx3fvh0g~Vjnm4fr3zkfepRtN3p1wOu9uCG0DgZztX2yk2J1rP137hDrQDlmJXnSuoyJ10WT-pwS7wZ7SDMmunA7gEgj~7-CsWqhDxajNXdAj970a-DihZK6gsfZ5A__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
-#EXT-X-STREAM-INF:BANDWIDTH=1964424,AVERAGE-BANDWIDTH=1964424,CODECS="avc1.64001f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=960x540,AUDIO="audiod",SUBTITLES="subs"
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYxMjk1NTE4OH19fV19&Signature=K9v2n1oaj5q1VWV4JivXltdIdv1ZzOstgkhclqyQfYDxihn32-6zywNH86O281XLMFTIbMNpKxbwReRFqR3Vz1jCjeZfd87o9N9J4ucPDYgYeoFglnJTeJdp4LI2IJb83gw8IoTUNO0NifQLCoWEw0lDJsnFl6Mp80KC2PtVhip8g~UK~fvO2QPP0z3L3qcbCdayw4fddJc79U8qpekWrRwAJx3fvh0g~Vjnm4fr3zkfepRtN3p1wOu9uCG0DgZztX2yk2J1rP137hDrQDlmJXnSuoyJ10WT-pwS7wZ7SDMmunA7gEgj~7-CsWqhDxajNXdAj970a-DihZK6gsfZ5A__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXT-X-STREAM-INF:BANDWIDTH=1147048,AVERAGE-BANDWIDTH=1147048,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=640x360,AUDIO="audiod",SUBTITLES="subs"
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYxMjk1NTE4OH19fV19&Signature=K9v2n1oaj5q1VWV4JivXltdIdv1ZzOstgkhclqyQfYDxihn32-6zywNH86O281XLMFTIbMNpKxbwReRFqR3Vz1jCjeZfd87o9N9J4ucPDYgYeoFglnJTeJdp4LI2IJb83gw8IoTUNO0NifQLCoWEw0lDJsnFl6Mp80KC2PtVhip8g~UK~fvO2QPP0z3L3qcbCdayw4fddJc79U8qpekWrRwAJx3fvh0g~Vjnm4fr3zkfepRtN3p1wOu9uCG0DgZztX2yk2J1rP137hDrQDlmJXnSuoyJ10WT-pwS7wZ7SDMmunA7gEgj~7-CsWqhDxajNXdAj970a-DihZK6gsfZ5A__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=480x270,AUDIO="audiod",SUBTITLES="subs"
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYxMjk1NTE4OH19fV19&Signature=K9v2n1oaj5q1VWV4JivXltdIdv1ZzOstgkhclqyQfYDxihn32-6zywNH86O281XLMFTIbMNpKxbwReRFqR3Vz1jCjeZfd87o9N9J4ucPDYgYeoFglnJTeJdp4LI2IJb83gw8IoTUNO0NifQLCoWEw0lDJsnFl6Mp80KC2PtVhip8g~UK~fvO2QPP0z3L3qcbCdayw4fddJc79U8qpekWrRwAJx3fvh0g~Vjnm4fr3zkfepRtN3p1wOu9uCG0DgZztX2yk2J1rP137hDrQDlmJXnSuoyJ10WT-pwS7wZ7SDMmunA7gEgj~7-CsWqhDxajNXdAj970a-DihZK6gsfZ5A__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="MOVIES",HBO Family
- https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=h-fam
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=h-fam
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HBO Hits
 http://nonton.site:8888/6894864475/7163819284/4829
