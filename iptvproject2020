@@ -79,6 +79,9 @@ https://m.vidio.com/videos/1228364/common_tokenized_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tentangsinopsis.com/wp-content/uploads/2020/12/FTV-Sambal-Cinta-Level-29-Nendang-Pedasnya-2019.jpg" group-title="FTV",FTV SCTV - Judul Sambal Cinta Level 29 "Nendang Pedasnya!"
 https://m.vidio.com/videos/2008165/common_tokenized_playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/uHfvD7ZqDlQNmamhfoC456KL_OI=/212x315/filters:quality(75)/vidio-web-prod-film/uploads/film/image_portrait/2270/modal-nasi-bungkus-balik-modal-jodoh-ab8870.jpg" group-title="FTV",FTV SCTV - Modal Nasi Bungkus Balik Modal Jodoh
+https://m.vidio.com/videos/2097106/common_tokenized_playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png" group-title="USEETV",USEE PRIME
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-useeprime
 
