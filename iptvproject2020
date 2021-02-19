@@ -8,7 +8,7 @@ https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-transtv
 http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans7 HD
-#EXTM3U #EXT-X-VERSION:3 #EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720p" https://cdngb196.useetv.com/joss/15/trans7/chunklist_w1678652774_b1344100_sleng.m3u8?enc=bx2Jqg0v5PDNBzYGC_k-KA&uid=&exp=1613456680 #EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540,NAME="540p" https://cdngb196.useetv.com/joss/15/trans7/chunklist_w1678652774_b894100_sleng.m3u8?enc=bx2Jqg0v5PDNBzYGC_k-KA&uid=&exp=1613456680 #EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p" https://cdngb196.useetv.com/joss/15/trans7/chunklist_w1678652774_b684100_sleng.m3u8?enc=bx2Jqg0v5PDNBzYGC_k-KA&uid=&exp=1613456680 #EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180,NAME="180p" https://cdngb196.useetv.com/joss/15/trans7/chunklist_w1678652774_b494100_sleng.m3u8?enc=bx2Jqg0v5PDNBzYGC_k-KA&uid=&exp=1613456680
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-trans7
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-net
