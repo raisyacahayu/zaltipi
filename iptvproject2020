@@ -335,6 +335,9 @@ https://cdngb196.useetv.com/joss/18/muhammadiyahtv/chunklist_w522689705_b684100_
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGI",TAWAF TV
 http://nonton.site:8888/6894864475/7163819284/14997
 
+#EXTINF:-1 tvg-logo="https://st3.depositphotos.com/27847728/36619/v/600/depositphotos_366195626-stock-illustration-initial-logo-design-vector-template.jpg" group-title="SPORTS", ZQ Sport
+http://iptv.zqstream.com/zqsport-gen/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="SPORTS",BEIN SPORTS 1 ID
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-bein1
 
