@@ -80,7 +80,7 @@ https://tasjogja.my.id/beban/mievidio/playlist.m3u8?id=665&token=421a81b4aaeff8c
 https://tasjogja.my.id/beban/mievidio/playlist.m3u8?id=6550&token=421a81b4aaeff8ce56fa2df35400262481fa57e03147624be86c719edbce9db4
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title="USEETV",RUANG TERAMPIL
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-useeinfo
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://iix123.us.to/logo/blueant.png" group-title="MOVIES",BLUE ANT ENTERTAIMENT
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
