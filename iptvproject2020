@@ -91,6 +91,9 @@ http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MOVIES",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MOVIES",HBO ID
+http://185.238.242.136:20000/hls/play/id/385.m3u8
+
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MOVIES",HBO
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="audio_ind",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="ind"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjUxNzh9fX1dfQ__&Signature=CA38caVHtIONMzbs0ISaG6v8KS~EHQKLeYp8sRFm0N14v153Qw6iX7bcjor6wUIw6EsrUkQqOGaa7TFfwD9GlYoPZUIjjOpqWyAfdhbpLS1UTIp611tUhTz3LoFg5~7eKtPRQ87zj4uKGsmx7Pr8mbUs21xH2VCwKykrzqxgazKxbNDZT9FXl6aTx-cD2riby3ff-PdRzVoifPOjzKZdu~GQrathWSbeCs8peuJVToJwk0lKBBtmoFsRnx4fp51ldi5NDA3BiTTP5n5gqcDrw7Do5E7C6AqbP2TYBrVYLqIYlZICYFCLiQzizM4YWWhHIx8yNbNKOAOj8kHwjvzkAA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
