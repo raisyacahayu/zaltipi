@@ -108,37 +108,37 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c4ca4238a0b923820dcc509a6f75849b202cb962ac59075b964b07152d234b70
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="MOVIES",Fox Action FHD
-http://nonton.site:8888/6894864475/7163819284/1478
+#http://nonton.site:8888/6894864475/7163819284/1478
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="MOVIES",Fox Action HD
 http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="MOVIES",Fox FHD
-http://nonton.site:8888/6894864475/8119081940/3634
+#http://nonton.site:8888/6894864475/8119081940/3634
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="MOVIES",Fox HD
-http://nonton.site:8888/6894864475/7163819284/3633
+#http://nonton.site:8888/6894864475/7163819284/3633
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="MOVIES",Fox Family Movies
-http://nonton.site:8888/6894864475/7163819284/3644
+#http://nonton.site:8888/6894864475/7163819284/3644
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES",Fox Movies FHD
-http://nonton.site:8888/6894864475/7163819284/3640
+#http://nonton.site:8888/6894864475/7163819284/3640
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES",Fox Movies HD
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="MOVIES",Fox Crime HD
-http://nonton.site:8888/6894864475/7163819284/3637
+#http://nonton.site:8888/6894864475/7163819284/3637
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="MOVIES",Fox Crime FHD
-http://nonton.site:8888/6894864475/8119081940/3638
+#http://nonton.site:8888/6894864475/8119081940/3638
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="MOVIES",Fox Life FHD
-http://nonton.site:8888/6894864475/8119081940/3636
+#http://nonton.site:8888/6894864475/8119081940/3636
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="MOVIES",Fox Life HD
-http://nonton.site:8888/6894864475/7163819284/3635
+#http://nonton.site:8888/6894864475/7163819284/3635
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HI! INDO
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
@@ -174,13 +174,13 @@ http://210.210.155.35/qwr9ew/s/s42/01.m3u8
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="KOREA",SONY ONE
-http://nonton.site:8888/6894864475/7163819284/3647
+#http://nonton.site:8888/6894864475/7163819284/3647
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_smalsl1.png" group-title="KOREA",KBS World
-http://nonton.site:8888/6894864475/7163819284/15057
+#http://nonton.site:8888/6894864475/7163819284/15057
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="KOREA",TVN ID
-http://nonton.site:8888/6894864475/7163819284/767
+#http://nonton.site:8888/6894864475/7163819284/767
 
 #EXTINF:-1 tvg-logo="https://iix123.us.to/logo/thrill.png" group-title="MOVIES",THRILL
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
@@ -189,79 +189,79 @@ http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="KIDS",Animax
-http://nonton.site:8888/6894864475/7163819284/3
+#http://nonton.site:8888/6894864475/7163819284/3
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS",Aniplus
-http://nonton.site:8888/6894864475/7163819284/2
+#http://nonton.site:8888/6894864475/7163819284/2
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS",Baby First
-http://nonton.site:8888/6894864475/7163819284/1204
+#http://nonton.site:8888/6894864475/7163819284/1204
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="KIDS",Baby TV
-http://nonton.site:8888/6894864475/7163819284/296
+#http://nonton.site:8888/6894864475/7163819284/296
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS",Boomerang ID
-http://nonton.site:8888/6894864475/7163819284/305
+#http://nonton.site:8888/6894864475/7163819284/305
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="KIDS",Cartoon Network ID HD
-http://nonton.site:8888/6894864475/7163819284/680
+#http://nonton.site:8888/6894864475/7163819284/680
 
 #EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="KIDS",CBeebies
-http://nonton.site:8888/6894864475/7163819284/491
+#http://nonton.site:8888/6894864475/7163819284/491
 
 #EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="KIDS",Disney Channel
-http://nonton.site:8888/6894864475/7163819284/306
+#http://nonton.site:8888/6894864475/7163819284/306
 
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="KIDS",Disney Channel" group-title="KIDS",Disney Channel ID
-http://nonton.site:8888/6894864475/7163819284/3479
+#http://nonton.site:8888/6894864475/7163819284/3479
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="KIDS",Disney Junior
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4270
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="KIDS",Disney UK
-http://nonton.site:8888/6894864475/7163819284/2336
+#http://nonton.site:8888/6894864475/7163819284/2336
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="KIDS",Disney XD
-http://nonton.site:8888/6894864475/7163819284/104
+#http://nonton.site:8888/6894864475/7163819284/104
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="KIDS",Duck TV
-http://nonton.site:8888/6894864475/7163819284/1854
+#http://nonton.site:8888/6894864475/7163819284/1854
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="KIDS",Dunia Anak
-http://nonton.site:8888/6894864475/7163819284/907
+#http://nonton.site:8888/6894864475/7163819284/907
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="KIDS",Horee
-http://nonton.site:8888/6894864475/7163819284/14106
+#http://nonton.site:8888/6894864475/7163819284/14106
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="KIDS",Nick Jr 2
-http://nonton.site:8888/6894864475/7163819284/341
+#http://nonton.site:8888/6894864475/7163819284/341
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS",Nick Jr ID
-http://nonton.site:8888/6894864475/7163819284/522
+#http://nonton.site:8888/6894864475/7163819284/522
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="KIDS",Nick Toons
 http://nonton.site:8888/6894864475/7163819284/335
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="KIDS",Nickelodeon ID
-http://nonton.site:8888/6894864475/7163819284/962
+#http://nonton.site:8888/6894864475/7163819284/962
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/320px-Spacetoon.png" group-title="KIDS",Spacetoon
-http://nonton.site:8888/6894864475/7163819284/1541
+#http://nonton.site:8888/6894864475/7163819284/1541
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",Toonmax
-http://nonton.site:8888/6894864475/7163819284/1116
+#http://nonton.site:8888/6894864475/7163819284/1116
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="KIDS",Zoo Moo FHD
-http://nonton.site:8888/6894864475/7163819284/14104
+#http://nonton.site:8888/6894864475/7163819284/14104
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2017/03/AFC_Asian_Food_Channel_logo.png" group-title="KNOWLEDGE",Asian Food Channel
 https://cdn14jtedge.useetv.com/joss/15/afc/chunklist_w1937371787_b1344100_sleng.m3u8?enc=TlbzVese2o1Ilpi0f8K5qw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613052106
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="KNOWLEDGE",Discovery Channel FHD
-http://nonton.site:8888/6894864475/7163819284/3618
+#http://nonton.site:8888/6894864475/7163819284/3618
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="KNOWLEDGE",Discovery Channel HD
-http://nonton.site:8888/6894864475/7163819284/3617
+#http://nonton.site:8888/6894864475/7163819284/3617
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="KNOWLEDGE",History
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass
@@ -273,25 +273,25 @@ https://etslive-2-vidio-com.akamaized.net/exp=1596702079~acl=/hls-p/ingest_geo_6
  https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-hgtv
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="KNOWLEDGE",NAT GEO People FHD
-http://nonton.site:8888/6894864475/7163819284/1371
+#http://nonton.site:8888/6894864475/7163819284/1371
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="KNOWLEDGE",NAT GEO People HD
-http://nonton.site:8888/6894864475/7163819284/455
+#http://nonton.site:8888/6894864475/7163819284/455
 
 #EXTINF:1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="KNOWLEDGE",Nat Geo Wild FHD
-http://nonton.site:8888/6894864475/7163819284/13717
+#http://nonton.site:8888/6894864475/7163819284/13717
 
 #EXTINF:1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="KNOWLEDGE",Nat Geo Wild HD
-http://nonton.site:8888/6894864475/7163819284/97
+#http://nonton.site:8888/6894864475/7163819284/97
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KNOWLEDGE",TECHSTORM
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="KNOWLEDGE",ANIMAL PLANET FHD
-http://nonton.site:8888/6894864475/7163819284/3616
+#http://nonton.site:8888/6894864475/7163819284/3616
 
 #EXTINF:-1 tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="KNOWLEDGE",ANIMAL PLANET HD
-http://nonton.site:8888/6894864475/7163819284/358
+#http://nonton.site:8888/6894864475/7163819284/358
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/209/271/png-clipart-cbeebies-television-show-logo-cbbc-bbc-television-others.png" group-title="KNOWLEDGE",BBC Cbeebies
 http://51.52.156.22:8888/http/003
@@ -309,7 +309,7 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",Al Quran Al Kareem TV
-http://nonton.site:8888/6894864475/7163819284/297
+#http://nonton.site:8888/6894864475/7163819284/297
 
 #EXTINF:-1 tvg-logo="https://www.tvislamonline.com/images/logo/ahsan.png" group-title="RELIGI",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
@@ -336,7 +336,7 @@ https://cdngb196.useetv.com/joss/18/tv9/chunklist_w670584668_b684100_sleng.m3u8?
 https://cdngb196.useetv.com/joss/18/muhammadiyahtv/chunklist_w522689705_b684100_sleng.m3u8?enc=twtxtQjIiJdTCtAES8ywuw&id=&exp=1595248016
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGI",TAWAF TV
-http://nonton.site:8888/6894864475/7163819284/14997
+#http://nonton.site:8888/6894864475/7163819284/14997
 
 #EXTINF:-1 tvg-logo="https://st3.depositphotos.com/27847728/36619/v/600/depositphotos_366195626-stock-illustration-initial-logo-design-vector-template.jpg" group-title="SPORTS", ZQ Sport
 http://iptv.zqstream.com/zqsport-gen/video.m3u8
