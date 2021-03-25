@@ -314,7 +314,7 @@ http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvislamonline.com/images/logo/ahsan.png" group-title="RELIGI",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",SURAU TV
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-zYNS2cXUxL4/VagaiRw08rI/AAAAAAAAFWY/vtz5L0R5PTg/s200/Surau%2BTV%2Bstreaming%2Bonline.png" group-title="RELIGI",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="RELIGI",AL-IMAN TV
