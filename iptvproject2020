@@ -587,9 +587,6 @@ http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="MOVIES",ZEE BIOSKOP
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="KIDS",Disney Junior
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4270
-
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2017/03/AFC_Asian_Food_Channel_logo.png" group-title="KNOWLEDGE",Asian Food Channel
 https://cdn14jtedge.useetv.com/joss/15/afc/chunklist_w1937371787_b1344100_sleng.m3u8?enc=TlbzVese2o1Ilpi0f8K5qw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613052106
 
@@ -686,66 +683,7 @@ https://chostv.mobie.in/choos/sports1/skynet5.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="SPORTS",Skynet Sport 6
 https://chostv.mobie.in/choos/sports1/skynet6.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="VOD MOVIES",Warkop DKI Mana tahan
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="VOD MOVIES",CLOUD ATLAS
-https://www.dropbox.com/s/f64h7truysnswta/Warkop%20Dki%20-%20Mana%20Tahan%20%281979%29%20Full%20HQ.mp4?dl=1x
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="VOD MOVIES",IMAGINAERUM
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e7dc8643-8e79-4a78-941d-3005cb4e04ec/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="VOD MOVIES",PREDESTINATION
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/a5e56786-2546-44d2-ad10-5d4830c53ee4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",A MONSTER CALLS
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",ESCAPE PLAN
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e27947a8-4d65-4693-b485-903b69d674e4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",THE IMPOSSIBLE
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/82ac8bc6-5179-4ceb-b9a2-06e0c360aad6/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",THE HOST
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",WARM BODIES
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",YOU NOW SEE ME
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",YOU NOW SEE ME 2
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",The Old Guard
-https://bitball.b-cdn.net/movies/2020-07/07-12-2020/The.Old.Guard.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",Greyhound 2020
-https://bitball.b-cdn.net/movies/2020-07/07-12-2020/Greyhound.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",atonement
-https://layarkacaxxi.org/v/-dgqntp2835-08d
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES",tes
-https://r4---sn-npoe7ner.c.drive.google.com/videoplayback?expire=1601928186&ei=ukN7X-WqC9L2uAXrqKToCw&ip=158.140.169.142&cp=QVRFU0pfV1FWR1hPOm90ZlJLczBuaUNmb00xelpxWnZpMGYzQUpwaWFpWVp0YUhFUE9RMEd5dXE&id=632a1b0725fb0166&itag=22&source=webdrive&requiressl=yes&ttl=transient&susc=dr&driveid=1R3ygxwXpELqHHT0eY4iyjEwOTMvZSyXS&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=6908.749&lmt=1599410592863942&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAKZQ2sN_mrHqZqQAFM4nP-D4jf-GzrjrfRVy--u-rbRfAiEAlOEWRRavrN0nDcwkbjZL00xB8ksWFa0u4tIupSp2nvA=&cpn=j7hfTR394CiYbSwW&c=WEB_EMBEDDED_PLAYER&cver=20201002&redirect_counter=1&rm=sn-npoly7z&req_id=4685ec5dae0636e2&cms_redirect=yes&mh=ra&mm=34&mn=sn-npoe7ner&ms=ltu&mt=1601914116&mv=m&mvi=4&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAOrEmXoJs1e6tAO5tPGudU-Ac47kl1s-S9mHxhprNtzQAiEA95Y0AG3CXvlPrrdxXbzbLyzA3OkgGLU7fqcDKXqIy2o%3D
-
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="CITRA"",Citra Drama
-https://tasjogja.my.id/beban/mieusee/playlist.m3u8?channel=cdrama&token=421a81b4aaeff8ce56fa2df35400262481fa57e03147624be86c719edbce9db4h
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Bioskop
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6684
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Entertainment
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6402
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="CITRA"",Citra Dangdut
-https://m.vidio.com/videos/2103518-episode-01/common_tokenized_playlist.m3u8
-2103518-episode-01
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/chos123/image/6402/citra-entertainment-271b80.jpg" group-title="CITRA"",Citra Muslim
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6678
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="DENS",Live Streaming 1
 http://rr3.dens.tv/s/s100/live.m3u8
