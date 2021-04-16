@@ -93,16 +93,16 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8?Policy=eyJTd
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf3202cb962ac59075b964b07152d234b70
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HBO Hits
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862c202cb962ac59075b964b07152d234b70
+https://mkctv.net/siap/hbo-hitshd.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MOVIES",HBO SIGNATURE
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c4ca4238a0b923820dcc509a6f75849b202cb962ac59075b964b07152d234b70
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="MOVIES",Fox Action FHD
-#http://nonton.site:8888/6894864475/7163819284/1478
+http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="MOVIES",Fox Action HD
-http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+https://mkctv.net/siap/hbo-hitshd.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES",Fox Movies HD
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
