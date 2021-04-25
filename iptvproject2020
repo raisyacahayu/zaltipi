@@ -497,7 +497,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png" group-title="TV Nasional",JTV
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-jtv
+http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="TV Nasional",MY TV
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6711_720p/index.m3u8
