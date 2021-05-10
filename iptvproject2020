@@ -461,7 +461,7 @@ http://210.210.155.35/session/6913c6d8-a9df-11ea-8ede-98c689d5e942/qwr9ew/s/s07/
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV HD
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
+https://drive.google.com/file/d/13i-jAV59Zx8TaNwQtbglJwdJOWFv0uRG/view?usp=sharing
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
