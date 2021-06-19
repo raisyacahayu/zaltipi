@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="FTA", ZQ Drama
-http://iptv.zqstream.com/zqdrama-gen/video.m3u8
+https://home-tv.my.id/RHS/win007.m3u8?channel=vidio-6401
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="FTA", ZQ Sport
 http://iptv.zqstream.com/zqsport-gen/video.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="FTA", RCTI
