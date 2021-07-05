@@ -205,7 +205,7 @@ http://rr.dens.tv/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Premium Channel", Kix
 http://210.210.155.35/session/1a507018-dda1-11eb-9219-c81f66f89318/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hits.png" group-title="Premium Channel", HITS
-http://rr.dens.tv/h/h37/01.m3u8
+http://210.210.155.35/session/be349a1e-dda2-11eb-a5a6-c81f66f89318/dr9445/h/h37/02.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png" group-title="Premium Channel", Blue Ant 
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantextreme.png" group-title="Premium Channel", Blue Ant Extreme
