@@ -143,7 +143,7 @@ http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal",TVRI
 http://210.210.155.35:80/session/8468fbd6-2ed9-11eb-81ff-b82a72d63267/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 tvg-id="rtv" tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal",RTV
-http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
+http://210.210.155.35/session/12513c0a-dddb-11eb-a8d2-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Lokal",RODJA TV
 http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="Lokal",BERITA SATU
