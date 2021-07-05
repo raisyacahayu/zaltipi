@@ -113,7 +113,7 @@ http://rr3.dens.tv/s/s100/live.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ls2.png" group-title="Lokal",Live Streaming 2
 http://210.210.155.35/session/6b5c7076-2ec7-11eb-9219-c81f66f89318/uq2663/h/h998/live.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal",METRO TV
-http://210.210.155.35:80/session/ee7383c6-2ece-11eb-a769-b82a72d63267/uq2663/h/h12/01.m3u8
+http://210.210.155.35/session/9b28df98-dda3-11eb-a9d6-b82a72d63267/x6bnqe/h/h12/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal",TVONE
 http://210.210.155.35:80/session/46b1ce9e-2ecf-11eb-a83f-b82a72d63267/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal",SCTV
@@ -127,9 +127,11 @@ http://210.210.155.35:80/session/de667460-2ecf-11eb-81ff-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal",ANTV
 http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/denslifestyle.png" group-title="Lokal",DENS Lifestyle
-http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h28/01.m3u8
+http://210.210.155.35/session/d934ac04-dda3-11eb-9219-c81f66f89318/dr9445/h/h28/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/denslearning.png" group-title="Lokal",DENS Learning Knowlegde
-http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+http://210.210.155.35/session/f467b5ca-dda3-11eb-a9d6-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/denslearning.png" group-title="Lokal",DENS ShowBiz
+http://210.210.155.35/session/680273da-dda4-11eb-a9d6-b82a72d63267/x6bnqe/s/s113/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_ShowBiz_Trial-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/densshowbiz.png" group-title="Lokal",DENS Showbiz
 http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal",NET.
@@ -148,6 +150,8 @@ http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="Lokal",DAAI TV
 http://210.210.155.35:80/session/07b13610-2edb-11eb-ae09-c81f66f89318/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="Lokal",U Channel
+http://210.210.155.35/session/937b00b8-dda4-11eb-bca3-c81f66f89318/qwr9ew/s/s41/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="Lokal",Mytv
 http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
 #EXTINF:-1 tvg-id="tvrisports" tvg-logo="http://kamiselaluada.com/img/tvrisports.png" group-title="Lokal",TVRI SPORTS
