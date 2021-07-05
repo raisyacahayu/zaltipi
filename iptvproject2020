@@ -130,7 +130,7 @@ http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s
 http://210.210.155.35/session/d934ac04-dda3-11eb-9219-c81f66f89318/dr9445/h/h28/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/denslearning.png" group-title="Lokal",DENS Learning Knowlegde
 http://210.210.155.35/session/f467b5ca-dda3-11eb-a9d6-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/denslearning.png" group-title="Lokal",DENS ShowBiz
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/densshowbiz.png" group-title="Lokal",DENS ShowBiz
 http://210.210.155.35/session/680273da-dda4-11eb-a9d6-b82a72d63267/x6bnqe/s/s113/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_ShowBiz_Trial-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/densshowbiz.png" group-title="Lokal",DENS Showbiz
 http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
