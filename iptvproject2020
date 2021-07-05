@@ -379,6 +379,30 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxfamilymovies" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png",FOX FAMILY Movies (VN)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png" group-title="HBO",HBO Channel
+#EXTVLCOPT:network-caching=1000
+https://dl.dropboxusercontent.com/s/4pgtuel0zwmegzx/HBO-ANUTV.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/HBO_522.png"group-title="HBO",Red By HBO
+#EXTVLCOPT:network-caching=1000
+https://dl.dropboxusercontent.com/s/cne2doeq81x9yzu/REDHBO-ANUTV.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfHHWYX.png" group-title="HBO",HBO Hits
+#EXTVLCOPT:network-caching=1000
+https://dl.dropboxusercontent.com/s/ei7ry5djzkmfi5u/HBOHITS-ANUTV.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRXxLom.png" group-title="HBO",HBO Signature
+#EXTVLCOPT:network-caching=1000
+https://dl.dropboxusercontent.com/s/1vlkl0dbjsbhdwt/HBOSIG-ANUTV.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"group-title="HBO",HBO Family
+#EXTVLCOPT:network-caching=1000
+https://dl.dropboxusercontent.com/s/abst6opq51v5ssb/HBOFAM-ANUTV.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="HBO",Cinemax
+#EXTVLCOPT:network-caching=1000
+https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACgT7hQtBpukLw0OfCIgthNa/Cinemax.m3u8?dl=0
+
 
 #EXTINF:-1 tvg-id="mtatv" tvg-logo="http://kamiselaluada.com/img/mta.png" group-title="MAXSTREAM", MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
